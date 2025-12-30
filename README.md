@@ -1,7 +1,10 @@
 
-![License: GPL v3](img.shield.io)
-![License: AGPL v3](img.shield.io)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
+[![Version](https://img.shields.io/badge/version-0.0.0-limegreen)]()
+
+<!-- ![GitHub release (latest by date)](https://img.shields.io/github/v/release/username/repo) -->
 
 > ## Disclaimer
 > *All trademarks, third-party assets/logos, and brand names used in this repository/project are property of their respective owners. 
