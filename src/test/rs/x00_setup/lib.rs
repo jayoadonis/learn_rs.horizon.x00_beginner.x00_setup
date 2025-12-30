@@ -1,6 +1,6 @@
 #![allow(dead_code, unused_variables, unused_imports)]
 
-//REM: Ignore this first... However, this is an 'integration-test'
+//REM: Ignore this first... However, this is an 'integration-test' (bin|executable for testing)
 #[test]
 fn integration_test_something() {
   //REM: --- something ---

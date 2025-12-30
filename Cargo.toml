@@ -4,12 +4,12 @@ name = "x00_setup"
 version = "0.0.0"
 edition = "2024"
 
-#REM: Project main-entry point and other basic meta-data
+#REM: Project bin crate/module or the executable main-entry-point and other basic meta-data
 [[bin]]
 name = "x00_setup"
 path = "src/main/rs/x00_setup/main.rs"
 
-#REM: Project 'lib module' and other basic meta-data
+#REM: Project 'lib crate/module' and other basic meta-data
 [lib]
 crate-type = [
   "rlib", "cdylib"

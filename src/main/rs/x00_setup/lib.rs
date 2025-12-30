@@ -1,6 +1,6 @@
 #![allow(dead_code, unused_variables, unused_imports)]
 
-//REM: Ignore this first... However, this is a 'lib module' of this crate
+//REM: Ignore this first... However, this is a 'library crate and/or library module' of this package (library).
 //REM: --- something ---
 
 //REM: Also graciously ingore this. But, this is a 'unit-test'

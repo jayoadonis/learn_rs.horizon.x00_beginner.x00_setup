@@ -1,6 +1,6 @@
 #![allow(dead_code, unused_imports, unused_variables)]
 
-//REM: This is the 'main module' or 'main-entry-point' of this crate.
+//REM: This is the 'binary crate and/or binary module' or also known as 'main-entry-point' (bin|executable).
 fn main() {
   println!("{} {}", "Hi", "there!");
 }
