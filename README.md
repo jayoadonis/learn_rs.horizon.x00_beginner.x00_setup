@@ -25,3 +25,27 @@ x00_setup/
      \--- test/rs/x00_setup/
           \--- lib.rs
 ```
+
+> ### [!NOTE]
+> ***crate** or a **cargo package (concrete project)**: can have/contain one (1) or more `bin_crate` and an `integration_test`, however, only one `lib_crate`.*
+## Basic Cargo command(s)
+### workspace basic cargo command
+```bash
+workspace_root > cargo test [--release] [-p <member|project_name>] [--all] [--] [--no-capture]
+workspace_root > cargo test [--release] [-p <member|project_name>] [--test <integration_test_name>]
+workspace_root > cargo test [--release] [-p <member|project_name>] [--bin <bin_crate_name>]
+workspace_root > cargo test [--release] [-p <member|project_name>] [--lib]
+workspace_root > cargo build [--release] [-p <member|project_name>] [--bin <bin_crate_name>]
+workspace_root > cargo build [--release] [-p <member|project_name>] [--lib]
+workspace_root > cargo run [--release] [-p <member|project_name>] [--bin <bin_crate_name>]
+```
+### project basic cargo command
+```bash
+member|project_name > cargo test [--release] [--all] [--] [--no-capture] 
+member|project_name > cargo test [--release] [--test <integration_test_name>]
+member|project_name > cargo test [--release] [--bin <bin_crate_name>]
+member|project_name > cargo test [--release] [--lib]
+member|project_name > cargo build [--release] [--bin <bin_crate_name>]
+member|project_name > cargo build [--release] [--lib]
+member|project_name > cargo run [--release] [--bin <bin_crate_name>]
+```
