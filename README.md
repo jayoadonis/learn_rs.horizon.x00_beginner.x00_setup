@@ -1,6 +1,6 @@
 
-[![License: GPL v3](https://img.shields.io/badge/LICENSE-GPL_v3-blue)](https://www.gnu.org/licenses/gpl-3.0)
-[![License: AGPL v3](https://img.shields.io/badge/LICENSE-AGPL_v3-blue)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/LICENSE-GPL_v3-blue?logo=gnu)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: AGPL v3](https://img.shields.io/badge/LICENSE-AGPL_v3-blue?logo=gnu)](https://www.gnu.org/licenses/agpl-3.0)
 
 [![Version](https://img.shields.io/badge/VERSION-0.0.0-limegreen)]()
 
