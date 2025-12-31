@@ -6,5 +6,5 @@ dist/
 
 .misc/
 
-.env
+.env.*
 !.env.public
